@@ -1,6 +1,5 @@
 Test
 ====
 
-ILK ornek
-ikinci ornek 
-feature olusturmaliyim.
+Deneme iki.
+hersey silindi.
